@@ -10,6 +10,7 @@ Multiple choice - same decks, tap answers
 Strings - random kana strings from your selected set (fixed or random length)
 Words - built-in vocab + custom lists (hiragana / katakana / custom-only)
 Numbers - Arabic (1,2,3) ↔ Japanese readings; kanji or hiragana display; easy / medium / hard / custom ranges
+Radicals - type or multiple choice, includes common kanji radicals
 
 **Features**
 
